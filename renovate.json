@@ -7,6 +7,7 @@
     },
     "separateMinorPatch": true,
     "prConcurrentLimit": 0,
+    "includeForks": true,
     "packageRules": [
       {
         "packagePatterns": [
