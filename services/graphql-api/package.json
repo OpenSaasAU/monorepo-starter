@@ -7,9 +7,9 @@
   },
   "dependencies": {
     "@babel/runtime": "^7.15.4",
-    "apollo-server": "^2.10.0",
+    "apollo-server": "^2.10.1",
     "graphql": "^15.6.1",
-    "graphql-tools": "^4.0.6"
+    "graphql-tools": "^4.0.8"
   },
   "repository": "https://github.com/OpenSaasAu/monorepo-starter/tree/master/services/graphql-api"
 }
