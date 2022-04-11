@@ -36,7 +36,7 @@
     "@manypkg/cli": "^0.19.1",
     "@preconstruct/cli": "^2.1.5",
     "babel-jest": "^25.5.1",
-    "eslint": "^7.32.0",
+    "eslint": "^8.13.0",
     "eslint-plugin-prettier": "^4.0.0",
     "jest": "^25.5.4",
     "prettier": "^2.5.1"
