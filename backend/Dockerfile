@@ -1,4 +1,4 @@
-FROM node:14.18-alpine
+FROM node:20.8-alpine
 ENV NODE_ENV=production
 ENV SESSION_SECRET=TEMP_SESSION_SECRET
 ENV DATABASE_ADAPTER=prisma_postgresql
